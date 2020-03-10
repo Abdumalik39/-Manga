@@ -122,3 +122,34 @@ margin-left: 100px;
 margin-left: 100px;
 
 }
+.logo {
+  float: left;
+}
+nav {
+
+  float: right;
+}
+nav ul {
+    top: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block; /*один из способов разместить элементы в строку*/
+
+    box-shadow: 1px 1px orange;
+}
+
+
+.Cont{
+    border: 1px solid orange;
+    position: static;
+    float: right;
+    top: 0px;
+}
+.Cont:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 2px 2px red;
+}

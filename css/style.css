@@ -434,5 +434,6 @@ nav li {
     src: url(../shrift/19007.otf); /* Путь к файлу со шрифтом */
 }
 h5 {
+  color:red;
     font-family: Pompadur, 'Comic Sans MS', cursive;
 }

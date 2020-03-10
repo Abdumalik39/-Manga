@@ -283,7 +283,7 @@ font-size: 20px;
     /* граница элемента */
     border: 4px solid orange;
     position: absolute;
-    top: 150px;
+    top: 500px;
     left: 1450px;
     /* уберем подсветку кнопки при клике */
     outline: none;
@@ -325,7 +325,7 @@ font-size: 20px;
     border: 4px solid orange;
     position: absolute;
     top: 150px;
-    left: 1650px;
+    left: 1450px;
     /* уберем подсветку кнопки при клике */
     outline: none;
     /* приятно — плавные переходы при наведении */
@@ -365,7 +365,7 @@ font-size: 20px;
     border: 4px solid orange;
     position: absolute;
     top: 500px;
-    left: 1650px;
+    left: 1250px;
     /* уберем подсветку кнопки при клике */
     outline: none;
     /* приятно — плавные переходы при наведении */

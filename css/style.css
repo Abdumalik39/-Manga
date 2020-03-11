@@ -439,6 +439,248 @@ nav li {
     src: url(../shrift/19007.otf); /* Путь к файлу со шрифтом */
 }
 h5 {
-  color:red;
+    color:brown;
     font-family: Pompadur, 'Comic Sans MS', cursive;
+}
+
+
+.scjje10 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid black;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* плавные переходы при наведении */
+    transition: all .4s ease
+;  font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+.mail{
+
+
+
+}
+
+/* стили для кнопки при наведении */
+.scjje10:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	#000000;
+
+}
+.scjje10 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere10 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+
+
+.scjje11 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid black;
+    position: absolute;
+    top: 500px;
+    left: 250px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* плавные переходы при наведении */
+    transition: all .4s ease;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+
+/* стили для кнопки при наведении */
+.scjje11:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	#000000;
+
+}
+.scjje11 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere11 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+
+.scjje12 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid red;
+    position: absolute;
+    top: 500px;
+    left: 450px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* приятно — плавные переходы при наведении */
+    transition: all .4s ease;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+
+/* стили для кнопки при наведении */
+.scjje12:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	red;
+
+}
+.scjje12 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere12 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+
+.scjje13 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid orange;
+    position: absolute;
+    top: 500px;
+    left: 650px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* приятно — плавные переходы при наведении */
+    transition: all .4s ease;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+
+/* стили для кнопки при наведении */
+.scjje13:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	red;
+
+}
+.scjje13 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere13 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+
+
+.scjje14 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid orange;
+    position: absolute;
+    top: 500px;
+    left: 850px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* приятно — плавные переходы при наведении */
+    transition: all .4s ease;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+
+/* стили для кнопки при наведении */
+.scjje14:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	red;
+
+}
+.scjje14 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere14 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+
+.scjje15 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    border: 4px solid orange;
+    position: absolute;
+    top: 500px;
+    left: 1050px;
+    /* уберем подсветку кнопки при клике */
+    outline: none;
+    /* приятно — плавные переходы при наведении */
+    transition: all .4s ease;
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 20px;
+}
+
+/* стили для кнопки при наведении */
+.scjje15:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 4px 4px 	red;
+
+}
+.scjje15 p{
+    top: -100px;
+    width: -1000px;
+}
+
+.scere15 {
+    /* размеры кнопки */
+    width: 150px;
+    height: 150px;
+    /* граница элемента */
+    position: absolute;
+    top: -20px;
+    left: 0px;
 }

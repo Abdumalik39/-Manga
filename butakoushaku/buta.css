@@ -153,3 +153,12 @@ nav li {
     cursor: pointer;
     box-shadow: 2px 2px red;
 }
+
+.menu {
+    position: fixed; /* Фиксированное положение */
+    right: 10px; /* Расстояние от правого края окна браузера */
+    top: 20%; /* Расстояние сверху */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333; /* Параметры рамки */
+}

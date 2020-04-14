@@ -6,6 +6,12 @@
 	<link rel="stylesheet" type="text/css" href="buta.css">
 </head>
 <body>
+	<div class="menui">
+<p id="first" onclick="first()">Показать блок</p>
+	<p id="first_yelloy"; style="display:none" onclick="first_yelloy()">Скрыть блок </p>
+
+<div id="second_hide" style="display:none">
+
 <div class="menu">
 	<header>
 		<div class="container">
@@ -56,7 +62,8 @@
 
 
 
-
+</div>
+</div>
 </div>
 <div class="body">
 	<div class="str1">
@@ -68,6 +75,19 @@
 </div>
 
 </div>
+
+<script>
+	function first() {
+		document.getElementById("second_hide").setAttribute("style", "opacity:1; transition: 1s; height: 100%;");
+		document.getElementById("first").setAttribute("style", "display: none");
+		document.getElementById("first_yelloy").setAttribute("style", "display: block");
+	}
+	function first_yelloy() {
+		document.getElementById("second_hide").setAttribute("style", "display: none");
+		document.getElementById("first_yelloy").setAttribute("style", "display: none");
+		document.getElementById("first").setAttribute("style", "display: block");
+	}
+</script>
 
 <div class="str2">
 	<a name="f2">

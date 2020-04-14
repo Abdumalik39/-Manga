@@ -2,6 +2,14 @@
 margin-left: 100px;
 
 }
+
+
+
+
+
+
+
+
 .str2{
 margin-left: 100px;
 
@@ -161,4 +169,19 @@ nav li {
     padding: 10px; /* Поля вокруг текста */
     background: #ffe; /* Цвет фона */
     border: 1px solid #333; /* Параметры рамки */
+}
+
+.menui {
+    position: fixed; /* Фиксированное положение */
+    right: 1px; /* Расстояние от правого края окна браузера */
+    top: 10%; /* Расстояние сверху */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333; /* Параметры рамки */
+}
+
+.menui:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 2px 2px red;
 }

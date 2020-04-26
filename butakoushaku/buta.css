@@ -181,3 +181,8 @@ nav li {
     cursor: pointer;
     box-shadow: 2px 2px red;
 }
+
+@media (max-width: 1160px;){
+
+
+}

@@ -82,9 +82,15 @@ font-size: 20px;
   height: 150px;
   /* граница элемента */
  position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0px;
 }
+
+.scere1 img{
+	wight: 150px;
+	height: 150px;
+}
+
 
 .scjje2 {
   /* размеры кнопки */
@@ -121,8 +127,13 @@ font-size: 20px;
   height: 150px;
   /* граница элемента */
  position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0px;
+}
+
+.scere2 img{
+	wight: 150px;
+	height: 150px;
 }
 
   .scjje3 {
@@ -160,10 +171,14 @@ font-size: 20px;
   height: 150px;
   /* граница элемента */
  position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0px;
 }
 
+.scere3 img{
+	wight: 150px;
+	height: 150px;
+}
 
   .scjje4 {
   /* размеры кнопки */
@@ -200,8 +215,13 @@ font-size: 20px;
   height: 150px;
   /* граница элемента */
  position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0px;
+}
+
+.scere4 img{
+	wight: 150px;
+	height: 150px;
 }
 
 .scjje5 {
@@ -243,6 +263,11 @@ font-size: 20px;
     left: 0px;
 }
 
+.scere5 img{
+	wight: 150px;
+	height: 150px;
+}
+
 .scjje6 {
     /* размеры кнопки */
     width: 150px;
@@ -278,8 +303,13 @@ font-size: 20px;
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere6 img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -319,8 +349,13 @@ font-size: 20px;
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere7 img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -364,6 +399,8 @@ font-size: 20px;
     left: 0px;
 }
 
+
+
 .scere8 img{
 
 	height: 150px;
@@ -406,8 +443,13 @@ font-size: 20px;
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -493,8 +535,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere10 img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -533,8 +580,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere11 img{
+	wight: 150px;
+	height: 150px;
 }
 
 .scjje12 {
@@ -572,8 +624,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere12 img{
+	wight: 150px;
+	height: 150px;
 }
 
 .scjje13 {
@@ -611,8 +668,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere13 img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -651,8 +713,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere14 img{
+	wight: 150px;
+	height: 150px;
 }
 
 .scjje15 {
@@ -690,8 +757,13 @@ h5 {
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere15 img{
+	wight: 150px;
+	height: 150px;
 }
 
 
@@ -730,9 +802,15 @@ Media
 	 .scere1{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 150px;
+	 	top: 0px;
 
 	 }
+
+	 .scere1 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	 .scjje2{
 	 	width: 50%;
@@ -745,9 +823,15 @@ Media
 	 .scere2{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
 	 }
+
+	 	 .scere2 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	  .scjje3{
 	 	width: 50%;
@@ -760,9 +844,15 @@ Media
 	 .scere3{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 100px;
+	 	top: 0px;
 
 	 }
+
+	 	 .scere3 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	  .scjje4{
 	 	width: 50%;
@@ -775,9 +865,14 @@ Media
 	 .scere4{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
 	 }
+	 	 .scere4 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	 .scjje5{
 	 	width: 50%;
@@ -790,9 +885,15 @@ Media
 	 .scere5{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
 	 }
+
+	 	 .scere5 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	 .scjje6{
 	 	width: 50%;
@@ -805,9 +906,14 @@ Media
 	 .scere6{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
 	 }
+	 	 .scere6 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	 .scjje7{
 	 	width: 50%;
@@ -820,9 +926,14 @@ Media
 	 .scere7{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
 	 }
+	 	 .scere7 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 	 .scjje8{
 	 	width: 50%;
@@ -838,6 +949,8 @@ Media
 	 	top: 0px;
 
 	 }
+
+
 
 	 .scere8 img{
 	 	width: 200%;

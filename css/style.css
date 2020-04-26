@@ -42,7 +42,7 @@ font-size: 20px;
   height: 150px;
   /* граница элемента */
  position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0px;
 }
 
@@ -339,7 +339,7 @@ font-size: 20px;
     /* приятно — плавные переходы при наведении */
     transition: all .4s ease;
     font-family: 'Arial Narrow', sans-serif;
-    font-size: 20px;
+    font-size: 10px;
 }
 
 /* стили для кнопки при наведении */
@@ -360,8 +360,14 @@ font-size: 20px;
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
+}
+
+.scere8 img{
+
+	height: 150px;
+	width: 150px;
 }
 
 

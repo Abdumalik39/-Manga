@@ -829,8 +829,13 @@ Media
 	 .scere8{
 	 	width: 50%;
 	 	height: 50%;
-	 	top: 750px;
+	 	top: 0px;
 
+	 }
+
+	 .scere8 img{
+	 	width: 200%;
+	 	height: 200%;
 	 }
 
 

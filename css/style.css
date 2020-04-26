@@ -20,7 +20,10 @@ font-size: 20px;
 
 
 }
-
+.scere img{
+	wight: 150px;
+	height: 150px;
+}
 /* стили для кнопки при наведении */
 .scjje:hover {
   /* курсор — палец */
@@ -683,4 +686,93 @@ h5 {
     position: absolute;
     top: -20px;
     left: 0px;
+}
+
+
+/* 
+Media
+*/
+
+@media (max-width: 1160px) {
+
+	 .scjje{
+	 	width: 50%;
+	 	height: 50%;
+
+	 }
+
+	 .scere{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 1px;
+
+	 }
+	 .scere img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+
+	 .scjje1{
+	 	width: 50%;
+	 	height: 50%;
+	 	margin: 50%;
+	 	top: -19.5%;
+
+	 }
+
+	 .scere1{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 150px;
+
+	 }
+
+	 .scjje2{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 1270px;
+	 	margin-left: -400px;
+
+	 }
+
+	 .scere2{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 750px;
+
+	 }
+
+	  .scjje3{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 1270px;
+	 	margin-left: 100px;
+
+	 }
+
+	 .scere3{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 100px;
+
+	 }
+
+
+	 h5{
+	 	font-size: 170%;
+	 }
+
+
+
+
+	 
+	 .col-4{
+	 	width: 100%;
+	 	margin: 0;
+	 	margin: bottom: 30px;
+	 	padding-left: 15px;
+	 	padding-right: 15px;
+	 	text-align: center;
+	 }
 }

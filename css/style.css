@@ -259,7 +259,7 @@ font-size: 20px;
     height: 150px;
     /* граница элемента */
     position: absolute;
-    top: -20px;
+    top: 0px;
     left: 0px;
 }
 
@@ -374,7 +374,7 @@ font-size: 20px;
     /* приятно — плавные переходы при наведении */
     transition: all .4s ease;
     font-family: 'Arial Narrow', sans-serif;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 /* стили для кнопки при наведении */
@@ -447,7 +447,7 @@ font-size: 20px;
     left: 0px;
 }
 
-.scere img{
+.scere9 img{
 	wight: 150px;
 	height: 150px;
 }
@@ -959,20 +959,164 @@ Media
 
 
 
+	 	 .scjje9{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 4570px;
+	 	margin-left: -500px;
+
+	 }
+
+	 .scere9{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+
+
+	 .scere9 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+	 
+
+	 	 .scjje10{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 5720px;
+	 	margin-left: 0px;
+
+	 }
+
+	 .scere10{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere10 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+
+	 	 .scjje11{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 5720px;
+	 	margin-left: 500px;
+
+	 }
+
+	 .scere11{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere11 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+
 	 h5{
 	 	font-size: 170%;
 	 }
 
 
+	 	 .scjje12{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 6870px;
+	 	margin-left: -400px;
+
+	 }
+
+	 .scere12{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere12 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+
+	 .scjje13{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 6870px;
+	 	margin-left: 100px;
+
+	 }
+
+	 .scere13{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere13 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+	.scjje14{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 8020px;
+	 	margin-left: -800px;
+
+	 }
+
+	 .scere14{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere14 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
+	.scjje15{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 8020px;
+	 	margin-left: -300px;
+
+	 }
+
+	 .scere15{
+	 	width: 50%;
+	 	height: 50%;
+	 	top: 0px;
+
+	 }
+
+	  .scere15 img{
+	 	width: 200%;
+	 	height: 200%;
+	 }
+
 
 
 	 
-	 .col-4{
-	 	width: 100%;
-	 	margin: 0;
-	 	margin: bottom: 30px;
-	 	padding-left: 15px;
-	 	padding-right: 15px;
-	 	text-align: center;
+	 .Cont{
+	 	
+	 	font-size: 120%;
+	 	
 	 }
 }

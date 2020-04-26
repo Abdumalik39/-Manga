@@ -169,11 +169,13 @@ nav li {
 
 .menui {
     position: fixed; /* Фиксированное положение */
-    right: 1px; /* Расстояние от правого края окна браузера */
-    top: 10%; /* Расстояние сверху */
+    right: 1%; /* Расстояние от правого края окна браузера */
+    top: 30%; /* Расстояние сверху */
     padding: 10px; /* Поля вокруг текста */
     background: #ffe; /* Цвет фона */
     border: 1px solid #333; /* Параметры рамки */
+    width: 200px;
+    height: 130px;
 }
 
 .menui:hover {
@@ -184,5 +186,29 @@ nav li {
 
 @media (max-width: 1160px;){
 
+.menui {
+   position: fixed; /* Фиксированное положение */
+    right: 12px; /* Расстояние от правого края окна браузера */
+    top: 102%; /* Расстояние сверху */
+    padding: 102px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333
+    text-align: center;
+}
+.menui p{
+
+	text-align: center;
+}
+
+.menu {
+    position: fixed; /* Фиксированное положение */
+    right: 10px; /* Расстояние от правого края окна браузера */
+    top: 10%; /* Расстояние сверху */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333; /* Параметры рамки */
+    height: 100%; 
+    width: 100%;
+}
 
 }

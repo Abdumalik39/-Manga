@@ -1,0 +1,317 @@
+.str1{
+margin-left: 100px;
+
+}
+
+
+
+
+.str2{
+margin-left: 100px;
+
+}
+.str3{
+margin-left: 100px;
+
+}
+.str4{
+margin-left: 100px;
+
+}
+.str5{
+margin-left: 100px;
+
+}
+.str6{
+margin-left: 100px;
+
+}
+.str7{
+margin-left: 100px;
+
+}
+.str8{
+margin-left: 100px;
+
+}
+.str9{
+margin-left: 100px;
+
+}
+.str10{
+margin-left: 100px;
+
+}
+.str11{
+margin-left: 100px;
+
+}
+.str12{
+margin-left: 100px;
+
+}
+.str13{
+margin-left: 100px;
+
+}
+.str14{
+margin-left: 100px;
+
+}
+.str15{
+margin-left: 100px;
+
+}
+.str16{
+margin-left: 100px;
+
+}
+.str17{
+margin-left: 100px;
+
+}
+.str18{
+margin-left: 100px;
+
+}
+.str19{
+margin-left: 100px;
+
+}
+.str20{
+margin-left: 100px;
+
+}
+.str21{
+margin-left: 100px;
+
+}
+.str22{
+margin-left: 100px;
+
+}
+.str23{
+margin-left: 100px;
+
+}
+.str24{
+margin-left: 100px;
+
+}
+.str25{
+margin-left: 100px;
+
+}
+.str26{
+margin-left: 100px;
+
+}
+.str27{
+margin-left: 100px;
+
+}
+.str28{
+margin-left: 100px;
+
+}
+.str29{
+margin-left: 100px;
+
+}
+.str30{
+margin-left: 100px;
+
+}
+.str31{
+margin-left: 100px;
+
+}
+.logo {
+  float: left;
+}
+nav {
+
+  float: right;
+}
+nav ul {
+    top: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block; /*один из способов разместить элементы в строку*/
+
+    box-shadow: 1px 1px orange;
+}
+
+
+.Cont{
+    border: 1px solid orange;
+    position: static;
+    float: right;
+    top: 0px;
+}
+.Cont:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 2px 2px red;
+}
+
+.menu {
+    position: fixed; /* Фиксированное положение */
+    right: 10px; /* Расстояние от правого края окна браузера */
+    top: 20%; /* Расстояние сверху */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333; /* Параметры рамки */
+}
+
+.menui {
+    position: fixed; /* Фиксированное положение */
+    right: 1%; /* Расстояние от правого края окна браузера */
+    top: 30%; /* Расстояние сверху */
+    border: 1px solid #333; /* Параметры рамки */
+    
+}
+
+.menui:hover {
+    /* курсор — палец */
+    cursor: pointer;
+    box-shadow: 2px 2px red;
+    size: 100px;
+}
+
+@media (max-width: 1160px;) {
+	.str1{
+margin-left: 0px;
+
+}
+
+
+
+
+.str2{
+margin-left: 0px;
+
+}
+.str3{
+margin-left: 0px;
+
+}
+.str4{
+margin-left: 0px;
+
+}
+.str5{
+margin-left: 0px;
+
+}
+.str6{
+margin-left: 0px;
+
+}
+.str7{
+margin-left: 0px;
+
+}
+.str8{
+margin-left: 0px;
+
+}
+.str9{
+margin-left: 0px;
+
+}
+.str10{
+margin-left: 0px;
+
+}
+.str11{
+margin-left: 0px;
+
+}
+.str12{
+margin-left: 0px;
+
+}
+.str13{
+margin-left: 0px;
+
+}
+.str14{
+margin-left: 0px;
+
+}
+.str15{
+margin-left: 0px;
+
+}
+.str16{
+margin-left: 0px;
+
+}
+.str17{
+margin-left: 0px;
+
+}
+.str18{
+margin-left: 0px;
+
+}
+.str19{
+margin-left: 0px;
+
+}
+.str20{
+margin-left: 0px;
+
+}
+.str21{
+margin-left: 0px;
+
+}
+.str22{
+margin-left: 0px;
+
+}
+.str23{
+margin-left: 0px;
+
+}
+.str24{
+margin-left: 0px;
+
+}
+.str25{
+margin-left: 0px;
+
+}
+.str26{
+margin-left: 0px;
+
+}
+.str27{
+margin-left: 0px;
+
+}
+.str28{
+margin-left: 0px;
+
+}
+.str29{
+margin-left: 0px;
+
+}
+.str30{
+margin-left: 0px;
+
+}
+.str31{
+margin-left: 0px;
+
+}
+
+
+
+}

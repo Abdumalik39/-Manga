@@ -1,0 +1,74 @@
+.mine{
+border: 1px solid black;
+ margin: 1px;
+ padding: 1px;
+background-color: red;
+}
+.sine{
+border: 1px solid black;
+ margin: 12px;
+ padding: 1px;
+
+ height: 1000px;
+}
+
+.zar{
+  color: rgb(250,128,114);
+  font-size: 100px;
+
+  text-align: center;
+}
+
+.cortine img{
+  border: 1px solid gold;
+  width: 300px;
+  position: relative;
+  right: -10px;
+}
+.opisanie {
+  position: relative;
+  right: -350px;
+  top:-300px;
+  border: 1px solid black;
+  height: 295px;
+  width: 800px;
+  color: red;
+}
+
+.glava{
+  font-size: 30px;
+  top: -200px;
+  position: relative;
+  right: -140px;
+  border: 1px solid;
+  width: 150px;
+}
+
+@media (max-width: 1160px){
+
+.mine{
+position: relative;
+height: 10px;
+width: 1400px;
+
+
+}
+
+.sine{
+  position: relative;
+  width: 1375px;
+
+}
+
+.opisanie{
+  position: relative;
+  right: -500px;
+  width: 850px;
+}
+
+.cortine img{
+  position: relative;
+width: 450px;
+}
+
+}

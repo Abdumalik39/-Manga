@@ -71,4 +71,14 @@ width: 1400px;
 width: 450px;
 }
 
+.vlog{
+ position: relative;
+ border: 1px black solid;
+ top: -80px;
+ width: 1375px;
+ height: 1200px;
+
+
+}
+
 }

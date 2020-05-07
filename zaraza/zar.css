@@ -32,7 +32,8 @@ border: 1px solid black;
   border: 1px solid black;
   height: 295px;
   width: 800px;
-  color: red;
+  color: green;
+  font-size: 15px;
 }
 
 .glava{

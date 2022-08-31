@@ -1,0 +1,32 @@
+<head>
+    <title>Manga</title>
+</head>
+
+<body>
+    <style>   
+.wrapper {
+    width: 1170px;
+    max-width: 100%;
+}
+    </style>
+<table style="width: 100%; position: absolute; right:200px; top: 200px;">
+<tr style="right: 500px; border: 4px solid black; position: absolute;">
+ <td style="width: 50%;">
+  <a href="javascript:l_image('image/S2.png')"><img src="image/S2.png" width="10px"></a><br>
+  <a href="javascript:l_image('image/s1.jpg')">Ссылка на изображение № 2</a><br>
+  <a href="javascript:l_image('image/img_3.png')">Ссылка на изображение № 3</a><br>
+  <a href="javascript:l_image('image/img_4.png')">Ссылка на изображение № 4</a><br>
+ </td>
+ <td style="width: 50%; position: absolute; right:400px;">
+  <img src="image/S2.png" name="example_img"
+  alt="Картинки для демонстрации работы скрипта смены изображений">
+ </td>
+</tr>
+</table>
+<script type="text/javascript">
+function l_image (a) {
+    document.example_img.src = a;
+}
+</script>
+</body>
+</html>
